@@ -2,16 +2,10 @@ package pl.chess.game;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-<<<<<<< HEAD:src/main/java/App.java
-<<<<<<< Updated upstream:src/main/java/App.java
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
-=======
+
 import pl.chess.game.models.TimeManager;
 import pl.chess.game.models.Timer;
 
->>>>>>> Stashed changes:src/main/java/pl/chess/game/App.java
 @SpringBootApplication
 public class App {
     public static void main(String[] args) {
